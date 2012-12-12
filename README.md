@@ -1,4 +1,4 @@
-In August 2012, I quit my job, took out a student loan and drove from Devner to Boulder to be one of the 5th Class (C5) at BDW. For the next three months, every Wednesday afternoon was set aside for studying something I never expected to be exposed to or learn - Programming and Ruby. 
+Once upon a time there was a girl named Julie. Julie was a grown up person with a job and a house when she woke up one morning and decided that life no longer suited her. So she quit her job, took out a student loan and drove from Denver to Boulder where she became one of the 5th Class (C5) at BDW. From August to December, every Wednesday afternoon was set aside for her to learn the most bizarre foreign language she'd ever come across - programming with Ruby. 
 
 This repo is the product of those dozen or so Wednesday afternoons. I've learned a crap-ton about language, syntax, classes, initializing and objects but the most important lesson was that I can understand this. I might not ever write a program that changes the world, but understanding and reading that program can get me pretty damn far. 
 
@@ -27,4 +27,5 @@ So here's a list of what I did! Nothing too exciting, but it made my dad pretty 
 	Build a program that models a soda machine. Accept user input to add or dispense sodas, and display the current stock levels of various sodas in the machine.
 
 8. blackjack.rb
-	Create a program to play blackjack! 
+	Create a program to play blackjack! This one is a work in progress. I am determined to get it working, to be able to place bets
+

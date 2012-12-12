@@ -15,8 +15,8 @@ So here's a list of what I did! Nothing too exciting, but it made my dad pretty 
 	Write a program using variables that will tell us how many square feet of stain it would take to cover all the tables in this lab twice in a human readable format (a string).
 
 4. time_left.rb
-	Write a program using variables that will tell us how many square feet of stain it would take to cover all the tables in this lab twice in a human readable format (a string).
-
+	Write a program using variables that will tell us how many months, days, hours, minutes and seconds are left in the year 2012 for humans and dogs in a human readable format.
+	
 5. editing_method.rb
 	Create a program with methods that represents a physical object in the real world you use everyday. Pick something that has a lot of options and actions. Be sure to use methods that return Booleans, Strings, Fixnums and Floats. Make sure your methods follow the single responsibility principle. 
 
